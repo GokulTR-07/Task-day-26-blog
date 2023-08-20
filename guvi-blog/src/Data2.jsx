@@ -4,7 +4,7 @@ const list2 = [
     
     title: "The Top 10 Tools Every Full Stack Developer Should Master in 2023",
     content: '‍As a full stack developer, having the right set of tools is crucial for your',
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023-2048x1072.png",
+    img: "/img 1.png",
     date: "17 August 2023"
   },
   {
@@ -12,7 +12,7 @@ const list2 = [
     
     title: "The Ultimate Guide to Real-World Full Stack Development Applications",
     content: 'Automation testing tools have really become a great and important factor in building efficient web',
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Ultimate-Guide-to-Real-World-Full-Stack-Development-Applications-2048x1072.png",
+    img: "/img 2.png",
     date: "17 August 2023"
   },
   {
@@ -36,7 +36,7 @@ const list2 = [
     
     title: "Top Skills To Become a Full Stack Developer in 2023",
     content: 'Automation testing tools have really become a great and important factor in building efficient web',
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/image-6.png",
+    img: "/img 3.png",
     date: "17 August 2023"
   },
   {
@@ -44,7 +44,7 @@ const list2 = [
     
     title: "Top Full Stack Development Webinars and Workshops",
     content: 'Automation testing tools have really become a great and important factor in building efficient web',
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-Full-Stack-Development-Webinars-and-Workshops.jpg",
+    img: "/img 4.png",
     date: "17 August 2023"
   },
   {
@@ -52,7 +52,7 @@ const list2 = [
     
     title: "The Future & Scope of Full Stack Developers in India",
     content: 'Automation testing tools have really become a great and important factor in building efficient web',
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/24746653_7002417-1-2048x1365.jpg",
+    img: "/img 5.png",
     date: "17 August 2023"
   },
   {
@@ -60,7 +60,7 @@ const list2 = [
     
     title: "Top 10 Full Stack Developer Frameworks in 2023",
     content: 'Automation testing tools have really become a great and important factor in building efficient web',
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+    img: "/img 6.png",
     date: "17 August 2023"
   },
   {
@@ -68,7 +68,7 @@ const list2 = [
     
     title: "Best Full Stack Development Project Ideas in 2023",
     content: 'Automation testing tools have really become a great and important factor in building efficient web',
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+    img: "/img 7.png",
     date: "17 August 2023"
   },
 ];

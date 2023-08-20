@@ -36,7 +36,7 @@ const list3 = [
     
     title: "Everything about Data Scientist Salary in India | 2023",
     content: 'Are you curious about the highly sought-after field of data science and the potential it',
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/08/Everything-about-Data-Scientist-Salary-in-India-2023-2048x1072.png",
+    img: "/img 8.png",
     date: "17 August 2023"
   },
   {
@@ -44,7 +44,7 @@ const list3 = [
     
     title: "How Long Would It Take to Learn Data Science?",
     content: 'Have you ever wondered how much time it takes to learn data science? It’s an',
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/08/How-Long-Would-It-Take-to-Learn-Data-Science-2048x1072.png",
+    img: "/img 9.png",
     date: "17 August 2023"
   },
   {
@@ -68,7 +68,7 @@ const list3 = [
     
     title: "Best Way to Learn Data Science in 2023",
     content: 'Have you ever wondered what it takes to become a data scientist? Is unraveling complex',
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/conceptual-data-analysis-with-wooden-blocks-magnifying-glass-side-view-1.jpg",
+    img: "/img 10.png",
     date: "17 August 2023"
   },
 ];

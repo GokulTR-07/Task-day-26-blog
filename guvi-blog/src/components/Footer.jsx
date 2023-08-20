@@ -7,7 +7,7 @@ function Footer() {
         <div className="row pt-4">
           <div className="col-lg-3 col-md-6 text-center">
             <div className='mt-2 mb-2'>
-              <img src="https://www.guvi.in/blog/wp-content/uploads/2022/04/Guvi-blog-logo.png" alt="blog logo" />
+              <img src="/blog.png" alt="blog logo" />
             </div>
             <hr />
             <div>
