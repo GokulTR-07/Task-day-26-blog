@@ -5,7 +5,7 @@ function Navbar() {
     
       <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top border-bottom">
         <a className="navbar-brand" href="#">
-              <img src="https://www.guvi.in/blog/wp-content/uploads/2022/04/Guvi-blog-logo.png" width="121" height="53" className="d-inline-block align-top" alt=""/>
+              <img src="/blog.png" width="121" height="53" className="d-inline-block align-top" alt=""/>
               </a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
