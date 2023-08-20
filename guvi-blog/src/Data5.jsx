@@ -52,7 +52,7 @@ const list5 = [
     
     title: "Game Development Career 2023: The Ultimate Beginners Guide",
     content: 'The game development industry has undergone a remarkable evolution over the years, witnessing exhilarating changes',
-    img: "https://www.guvi.in/blog/wp-content/uploads/2021/04/Game-Development-Career-101.jpg",
+    img: "/img 7.png",
     date: "17 August 2023"
   },
   {
@@ -60,7 +60,7 @@ const list5 = [
     
     title: "The Future & Scope of Full Stack Developers in India",
     content: 'Have you ever wondered about the future of full stack developers in India? These talented',
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/24746653_7002417-1-1536x1024.jpg",
+    img: "/img 8.png",
     date: "17 August 2023"
   },
   {
@@ -68,7 +68,7 @@ const list5 = [
     
     title: "5 Career Opportunities for Full Stack Development",
     content: 'Ever wondered what awesome job opportunities are waiting for you in the field of Full Stack Development? Well, this blog is just for you!',
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/professional-programmer-working-late-dark-office.jpg",
+    img: "/img 9.png",
     date: "17 August 2023"
   },
 ];
